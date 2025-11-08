@@ -16,6 +16,7 @@ captures/
 .extenralNativeBuild
 .idx/
 
+firebase.json
 
 # Log file
 *.log
